@@ -6,4 +6,4 @@ As R users, the challenge is to make a website with R and R packages developped 
 
 [Blogdown](https://github.com/rstudio/blogdown), [R markdown](https://github.com/rstudio/rmarkdown), [knitr](https://github.com/yihui/knitr) and so on will be the main packages used. 
 
-Thanks to [@R_forward](https://twitter.com/@R_forwards), [@OmaymaS](https://twitter.com/@OmaymaS) and [@Jacquelyn_Neal](https://twitter.com/@Jacquelyn_Neal) for supports. 
+Thanks to [@R_forward](https://twitter.com/@R_forwards), [@OmaymaS](https://twitter.com/@OmaymaS_) and [@Jacquelyn_Neal](https://twitter.com/@Jacquelyn_Neal) for supports. 
