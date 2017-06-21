@@ -1,7 +1,7 @@
 baseurl = "/"
 relativeurls = true
 languageCode = "en-us"
-title = "A Hugo website"
+title = "UseR!2017 DSaN Blog"
 theme = "hugo-lithium-theme"
 googleAnalytics = ""
 disqusShortname = ""
